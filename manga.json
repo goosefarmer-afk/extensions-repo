@@ -9,7 +9,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/atsumaru/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/atsumaru.zip",
-    "sha256": "06f07ce1f4aa47542dbf44280f649084647e735b80084a2903841b4394e118b6"
+    "sha256": "8edb2a5784f0ff36a8f98e93ba8f71aa7737cce5226bb47f583b28f73abae8fa"
   },
   {
     "id": "ccfbc4a9-aeac-4fa8-8810-4c7b661ce4c5",
@@ -21,7 +21,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/comickart/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/comickart.zip",
-    "sha256": "867de4c8dc0ad076f4b8e244f9b2bbf0b24ff1f0735c4024fd3f93d4ed7417b3"
+    "sha256": "d117689df26ec8a3ea5917965e5cfa006f2a08b0b881461625ef59314fccd72b"
   },
   {
     "id": "b78f1cbf-c33e-45ac-be89-de78e22a9736",
@@ -33,7 +33,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/comix/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/comix.zip",
-    "sha256": "c847e6d856af8322e724d7517ad697bae55bc6a47752bf151d9fbb02a30b2315"
+    "sha256": "54df10eea5e695c50bffed9277b9f667d7250f7cc5eef63cf458aea64fca1d07"
   },
   {
     "id": "c85ec5d0-eb47-44ae-8b69-f4925f739a00",
@@ -45,7 +45,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/culturedworks/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/culturedworks.zip",
-    "sha256": "ee4cf57aac49607f5d553804e3c3465bf5935192a496b8d5e28aade28ac56f13"
+    "sha256": "9e9257ce285a5aee37a6c952707bad5e491f03825f1e73d9c29de0549650bc72"
   },
   {
     "id": "1df81aab-59a9-4456-9a44-3df25ae7d9b7",
@@ -57,7 +57,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/dynastyscans/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/dynastyscans.zip",
-    "sha256": "d074ba8e780d08da25fe85797cb51b3c02766eecda89257e309a16c04481bb20"
+    "sha256": "16c16e781cbc865c2d96fc307a4d7d4b524e39019a7deda4f0e5204fdb2b3764"
   },
   {
     "id": "a2c632c6-e3e5-45d5-a540-6354f774fc78",
@@ -69,7 +69,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/flamecomics/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/flamecomics.zip",
-    "sha256": "3372f14fb38919976fb06050224942c1f3bfdcd76517e86cc145c9fdd434061d"
+    "sha256": "e98c72fbde49475c2a75149bd050f986723864a43a473e98bffdaa3286b4b914"
   },
   {
     "id": "9958a982-3691-4093-b791-8a76e9abf768",
@@ -81,7 +81,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/hentai2read/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/hentai2read.zip",
-    "sha256": "68731a9fb56478764bb6698862dd5d224065a2a4f7d6a4e536ee7bdb988a8f5d"
+    "sha256": "1cac6745a0d6fbd02ccca7b8fe936c91a1d73e88e0fc245f15e3ca08440a2f99"
   },
   {
     "id": "73a5d2bb-17f8-4c80-aef9-10744136ba37",
@@ -93,7 +93,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/hentairead/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/hentairead.zip",
-    "sha256": "578ff83a2bf30d2e2c9872c8e18c7283d45010802041e90bff535d475683e176"
+    "sha256": "7186a382cff195eaf1be150e07664d32460b34c27e8a998d524535355e7b3c43"
   },
   {
     "id": "32bf4cc4-18c9-4a87-adfa-956de96f597a",
@@ -105,7 +105,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/kaliscan/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/kaliscan.zip",
-    "sha256": "e795bf9f93efb3ba4972f668e13f950e3013a3a4b7cc4a74e880cbfca501b42e"
+    "sha256": "c3a7bd9e5f0b5d8994b8db77cb48f1cb7a127ee486e2bffab6f54d3aceca61d7"
   },
   {
     "id": "e7d537ab-5251-4127-af53-1c340d64cee3",
@@ -117,7 +117,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/lilymanga/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/lilymanga.zip",
-    "sha256": "5bfb4c43ba609f25f83feced52cb77f66d5e21271a0fbe33a4516ff0c1d11a3b"
+    "sha256": "c8f59ea27165b6515c395d11efbfec6fd3e42ec6ae1e4de2c641d03a241e2720"
   },
   {
     "id": "c83cab9b-eaab-4f74-b290-b89a4fa9c201",
@@ -129,7 +129,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/manga18x/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/manga18x.zip",
-    "sha256": "f30dca97cae3de3a16df21c56a761e4dd1e872eb4ed2a2595ad63d373ed6672b"
+    "sha256": "080fe44834d68756589ff6f092e503659c063353fc01a460d90808ce27b77388"
   },
   {
     "id": "62afa26f-73b6-46d1-a3c4-01fe142fb34f",
@@ -141,7 +141,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangaball/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangaball.zip",
-    "sha256": "778fe6c56d8b33fd2cabd4a945eec5896716712f87c8f0e34634f53ca808bcaf"
+    "sha256": "15045d29d1bc6c45f987d624bcab9d5778d92a6a7851162ad3b40359ebbf26e9"
   },
   {
     "id": "4f355e99-cd3b-4239-b7ac-434a44a77c91",
@@ -153,7 +153,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangabats/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangabats.zip",
-    "sha256": "09dd839c66ec353357e445664fc1a8b492c1106cc192fc3bc38bc8e1474980a5"
+    "sha256": "e2c3c8cba1c6303ff942ebec9618648357460001e76c48c1099be7e9765a9def"
   },
   {
     "id": "be7645dc-c8ad-40a0-a99d-3b7628557ea7",
@@ -165,7 +165,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangadex/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangadex.zip",
-    "sha256": "fd4610ed44d16c2a6a880fb8aaa5a7f2106f13fc47504e67c43a7ce757d47ccd"
+    "sha256": "574fc84202eefb6e7d6f67dce9a556fe5ca0b4f26787e8a098c347545b09ae23"
   },
   {
     "id": "74a5d6e2-29fb-4b2d-b723-9cad25faee86",
@@ -177,7 +177,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangadotnet/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangadotnet.zip",
-    "sha256": "59c20ee25bbeb816aba18332d7146511c3e27d33de13132b67455acac87e9472"
+    "sha256": "4ffdf509ef1aa62419cd4e152d39605b316c4b3ac37d2a3f0349be757fe37d0a"
   },
   {
     "id": "427e90bd-48ef-46c8-98bb-315a19a96bf3",
@@ -189,7 +189,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangafire/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangafire.zip",
-    "sha256": "d378642db6b6b5cba8ee84380bca1d5688caea8fa4fa2e66eeddc2daf87d946f"
+    "sha256": "128b4a87702475cace2df0d48e157faf272bf68748977ac7ca80165ebbdcf28c"
   },
   {
     "id": "8e9e6ed5-fb48-40de-a495-ae9a600e5d97",
@@ -201,7 +201,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangakakalot/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangakakalot.zip",
-    "sha256": "657fc6ee2c789bf2a12797ab60529bc896f995a3fbe23820e38304a9d389175c"
+    "sha256": "68d83c291bea9a63d22d3a056aa2703f7cbe77f1abb47067267f1956d2872055"
   },
   {
     "id": "1f5fd8a0-30cd-4722-bdbc-e1e683b2dd12",
@@ -213,7 +213,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangakatana/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangakatana.zip",
-    "sha256": "a45aa0a898875f31c2a393f3da0aaf8c29a48cde4b4150514d1311fd33216dc8"
+    "sha256": "199b11266d16fa25a16c77a5dee5e9bd58ad4e68ab24357ec65923f2d91c65a1"
   },
   {
     "id": "3bf682e5-e68e-436b-ac7e-6a2a1fbfac18",
@@ -225,7 +225,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mangaup/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mangaup.zip",
-    "sha256": "8ec89933d2b9557c37b42c0683ef238bbf6cbdad0f401fc98ba1e868abe6726d"
+    "sha256": "80fc9e25c9f6f9fc8df52a7e250a92f89300300080f812533c8ce8f73464ccdb"
   },
   {
     "id": "3545ebde-b3db-4656-8eb5-c254c8fc942d",
@@ -237,7 +237,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/manhwaread/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/manhwaread.zip",
-    "sha256": "abd813d371d790cbae9af11c6f49dcbb26800145664249eccdd4b46f65c3fd94"
+    "sha256": "de151c8b659a63da822f575ab12a08254f2f7a2e7e935c197b001129ed46542f"
   },
   {
     "id": "e0e13f65-cf36-42eb-add5-3eb1a558f76c",
@@ -249,7 +249,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/manhwatoonme/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/manhwatoonme.zip",
-    "sha256": "93d44b15672a5e10052f79948f740893c5950a281253c675f4a02bc995480991"
+    "sha256": "f71d9e7529eaa45a4f5cdaefea46af6aeb36e8447495f354d7ace900f1835bd8"
   },
   {
     "id": "a11e124a-a4d3-4297-b6c8-4ccc153a4edb",
@@ -261,7 +261,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/mkissa/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/mkissa.zip",
-    "sha256": "3551be5ddc6cb3522114dabced34fccd40a172dafc30004cf13e072b966f3b7f"
+    "sha256": "132537f3424545eaed351f185dab9966a6ed308efc69f90a56fc1b66ecb147ad"
   },
   {
     "id": "7ac3ad11-8fdb-4a28-ae29-d1ee9725830d",
@@ -273,7 +273,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/nhentai/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/nhentai.zip",
-    "sha256": "bb386ce89d2c7fe82688b9a2e2b73fcaefb7aabc4faf10bd46b10972bdcfc70b"
+    "sha256": "910abeab181c32d485ac3115d4ed711470b78711e1aba968da519c0cfecde8d3"
   },
   {
     "id": "019b27e5-35c4-7b5a-af67-b12cf2dfeedd",
@@ -285,7 +285,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/omegascans/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/omegascans.zip",
-    "sha256": "10eac111aadae8d9d335576151e6a89de96a404d9251668f35ceed51af9cb0bd"
+    "sha256": "fca1f0f334e3edec7995d033d4e41c073592a1cb31afd9d69a803231c68298c2"
   },
   {
     "id": "a52dd413-0d74-4ac6-8a93-3e1b724bf259",
@@ -297,7 +297,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/philiascans/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/philiascans.zip",
-    "sha256": "8666fa8a68a1275b731647bda85286bf703088ec8d5cbddcae3bfbf26f40faa8"
+    "sha256": "e94518bd603484cd72ae1482ef06468a44d2c5a2a72e81a7a31b5ef570be95ce"
   },
   {
     "id": "b94584d8-23cb-49e6-a00c-53c0aad97f16",
@@ -309,7 +309,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/rizzcomic/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/rizzcomic.zip",
-    "sha256": "15d342df22d38397dfc061bc612e23a208fe359e01582b7df77e19ae410e093b"
+    "sha256": "3dc757b2eeef3d7ce132782d0c0aa27a07e49db075b522ea98241fc761377158"
   },
   {
     "id": "518f0983-88d3-4ae1-9e53-16ec3b5ab6fb",
@@ -321,7 +321,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/templescan/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/templescan.zip",
-    "sha256": "2324ab1117c7baf265e5662546f88c622ae7ff7d71616fcf96fdb1fc20233e43"
+    "sha256": "0cc04bf1e39689229107eb828ce6268e06155e92af7ddc319fa2c0f85ea37df8"
   },
   {
     "id": "4dcb809c-291d-41c6-a3f0-b17fdab7c794",
@@ -333,7 +333,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/toonily/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/toonily.zip",
-    "sha256": "dff81ed9a3aabe5248c5eeb28fff7f5b72d877dca7500cd7ab5272920392884d"
+    "sha256": "02d5b5539e6af0a0bb0d0101c90ec88d35a3276cd6ffde075a3fc405ca7fe2b8"
   },
   {
     "id": "60a5fe3e-2586-475c-861f-5b9c6bb0597e",
@@ -345,7 +345,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/toonilyme/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/toonilyme.zip",
-    "sha256": "49f1fd4bbb32af7c2cb9855f9c2a15dcbaae48b72b1f8b8dcb3886c658260371"
+    "sha256": "09d365326eac89b74c6d89b29b232194b425ad3e49a1fd767ad29838a89c152e"
   },
   {
     "id": "01529321-b6cd-43c2-b0b1-6161de4f5096",
@@ -357,7 +357,7 @@
     "lang": "multi",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/webtoons/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/webtoons.zip",
-    "sha256": "9811299970012207b52a4d34e8f1d19db96e23514d29da870674be7421bd18d1"
+    "sha256": "42b53a006a5ff4e778cb58fdabe8d20905cb5ef3ee942a7a60380c3ed44066c6"
   },
   {
     "id": "eded1ed2-b39b-4a6e-a4d3-437267481e64",
@@ -369,7 +369,7 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/weebcentral/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/weebcentral.zip",
-    "sha256": "3c6fb093c4d86b087d506cb2ce18b2321734cb25a5df82c7dfac872d54f897e8"
+    "sha256": "145ed31de09bc04180193e5951278156d713b774e1b97fe2a5852dfe5c73e1ad"
   },
   {
     "id": "f21aa317-e220-4121-bc1c-7ba55a9c7cc4",
@@ -381,6 +381,6 @@
     "lang": "en",
     "iconUrl": "https://raw.githubusercontent.com/goosefarmer-afk/tsukimichi-extensions/main/src/extensions/manga/zazamanga/icon.png",
     "downloadUrl": "https://raw.githubusercontent.com/goosefarmer-afk/extensions-repo/main/extensions/manga/zazamanga.zip",
-    "sha256": "3e2e22d8acd18013718984bc1f937c92e010f45b65c1bbbdb650f37e5b755ebd"
+    "sha256": "2031184ccd149fa3fc8aa8b69ea5ba34b9690b301f72ef534331cb6113b2d46a"
   }
 ]
