@@ -1,8 +1,6 @@
 {
   "indexUrl": "https://github.com/goosefarmer-afk/extensions-repo/raw/main/manga.json",
-  "meta": {
-    "name": "Aamon",
-    "contactWebsite": "https://github.com/goosefarmer-afk/extensions-repo",
-    "contactDiscord" null
-  }
+  "name": "Aamon",
+  "contactWebsite": "https://github.com/goosefarmer-afk/extensions-repo",
+  "contactDiscord" null
 }
